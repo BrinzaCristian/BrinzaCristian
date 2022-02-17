@@ -9,8 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lllll&label=Profile%20views&color=0e75b6&style=flat" alt="lllll" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/lllll" target="blank"><img src="https://img.shields.io/twitter/follow/lllll?logo=twitter&style=for-the-badge" alt="lllll" /></a> </p>
-
 - 👀 I’m interested in  **Software Engineering**
 - 🌱 I’m currently learning **new things**
 - ⚡ Fun fact **...**
