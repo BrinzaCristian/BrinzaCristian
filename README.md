@@ -19,20 +19,15 @@
 - 
 - 📫 How to reach me **:**
 
- Mobile +373 (68) 74-54-34      
-
+Mobile +373 (68) 74-54-34      
 Corporative Email cristian.brinza@isa.utm.md
-
 Personal Email cristian.brinza.service.acc@gmail.com
 
 2060 Moldova Republic of, Chisinau
 
 Git https://github.com/BrinzaCristian 
-
 Twitter https://twitter.com/cristian_brinza
-
 Facebook https://www.facebook.com/cristian.brinza.fb
-
 Instagram https://www.instagram.com/brinza_cristian
 
 
