@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/lllll" target="blank"><img src="https://img.shields.io/twitter/follow/lllll?logo=twitter&style=for-the-badge" alt="lllll" /></a> </p>
 
-- 🌱 I’m currently learning **lllll**
+- 👀 I’m interested in  **Software Engineering**
 
-- 📫 How to reach me **lllll**
+- 🌱 I’m currently learning **new things**
 
-- ⚡ Fun fact **lllll**
--👀 I’m interested in  Software Engineering
--🌱 I’m currently learning new things
--💞️ I’m looking to collaborate on anything
--📫 How to reach me :
-         
--Mobile +373 (68) 74-54-34
+
+
+- ⚡ Fun fact **...**
+- 📫 How to reach me **:**
+
+ <h3>Mobile +373 (68) 74-54-34</h3>        
+
 -Corporative Email cristian.brinza@isa.utm.md
 -Personal Email cristian.brinza.service.acc@gmail.com
 
@@ -32,7 +32,7 @@
 -Facebook https://www.facebook.com/cristian.brinza.fb
 -Instagram https://www.instagram.com/brinza_cristian
 
-- ⚡ Fun fact ....
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
