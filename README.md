@@ -22,22 +22,18 @@ Personal Email cristian.brinza.service.acc@gmail.com</br>
 
    2060 Moldova Republic of, Chisinau</br>
 
-Git https://github.com/BrinzaCristian </br>
-Twitter https://twitter.com/cristian_brinza </br>
-Facebook https://www.facebook.com/cristian.brinza.fb</br>
-Instagram https://www.instagram.com/brinza_cristian</br>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lllll" height="30" width="40" /></a>
-<a href="https://twitter.com/lllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lllll" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lllll" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/lllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lllll" height="30" width="40" /></a>
-<a href="https://fb.com/lllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lllll" height="30" width="40" /></a>
-<a href="https://instagram.com/lllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lllll" height="30" width="40" /></a>
-<a href="https://discord.gg/lllll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lllll" height="30" width="40" /></a>
+<a href="https://codepen.io/brinzacristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/brinzacristian" height="30" width="40" /></a>
+<a href="https://twitter.com/cristian_brinza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/cristian_brinza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cristianbrinza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/cristianbrinza" height="30" width="40" /></a>
+<a href="ttps://stackoverflow.com/users/17364500/cristian-brinza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17364500/cristian-brinza" height="30" width="40" /></a>
+<a href="https://www.facebook.com/cristian.brinza.fb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cristian.brinza.fb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/brinza_cristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brinza_cristian" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/cristi#5609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cristi#5609" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
