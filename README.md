@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cristian Brinza (@BrinzaCristian)
+-
                     Bachelor of Science in Software Engineering 
                     (English Taught Honors Program on Software Engineering)
                     and Programing and Program Analysis Student
@@ -19,8 +19,10 @@ Facebook https://www.facebook.com/cristian.brinza.fb
 Instagram https://www.instagram.com/brinza_cristian
 
 
-<h1 align="center">Hi 👋, I'm lllll</h1>
-<h3 align="center">A passionate frontend developer from lllll</h3>
+<h1 align="center">Hi 👋, I'm Cristian Brinza (@BrinzaCristian)</h1>
+<h3 align="center">Bachelor of Science in Software Engineering 
+                    (English Taught Honors Program on Software Engineering)
+                    and Programing and Program Analysis Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lllll&label=Profile%20views&color=0e75b6&style=flat" alt="lllll" /> </p>
 
