@@ -8,25 +8,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lllll&label=Profile%20views&color=0e75b6&style=flat" alt="lllll" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lllll" alt="lllll" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lllll" target="blank"><img src="https://img.shields.io/twitter/follow/lllll?logo=twitter&style=for-the-badge" alt="lllll" /></a> </p>
 
-👀 I’m interested in  Software Engineering
-🌱 I’m currently learning new things
-💞️ I’m looking to collaborate on anything
-📫 How to reach me :
+-👀 I’m interested in  Software Engineering
+-🌱 I’m currently learning new things
+-💞️ I’m looking to collaborate on anything
+-📫 How to reach me :
          
-Mobile +373 (68) 74-54-34
-Corporative Email cristian.brinza@isa.utm.md
-Personal Email cristian.brinza.service.acc@gmail.com
+-Mobile +373 (68) 74-54-34
+-Corporative Email cristian.brinza@isa.utm.md
+-Personal Email cristian.brinza.service.acc@gmail.com
 
-2060 Moldova Republic of, Chisinau
+-2060 Moldova Republic of, Chisinau
 
-Git https://github.com/BrinzaCristian 
-Twitter https://twitter.com/cristian_brinza
-Facebook https://www.facebook.com/cristian.brinza.fb
-Instagram https://www.instagram.com/brinza_cristian
+-Git https://github.com/BrinzaCristian 
+-Twitter https://twitter.com/cristian_brinza
+-Facebook https://www.facebook.com/cristian.brinza.fb
+-Instagram https://www.instagram.com/brinza_cristian
 
 - ⚡ Fun fact ....
 
