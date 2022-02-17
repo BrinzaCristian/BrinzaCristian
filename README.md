@@ -20,12 +20,12 @@ Mobile +373 (68) 74-54-34 </br>
 Corporative Email cristian.brinza@isa.utm.md</br>
 Personal Email cristian.brinza.service.acc@gmail.com</br>
 
-    2060 Moldova Republic of, Chisinau</br>
+   2060 Moldova Republic of, Chisinau</br>
 
 Git https://github.com/BrinzaCristian </br>
 Twitter https://twitter.com/cristian_brinza </br>
-Facebook https://www.facebook.com/cristian.brinza.fb
-Instagram https://www.instagram.com/brinza_cristian
+Facebook https://www.facebook.com/cristian.brinza.fb</br>
+Instagram https://www.instagram.com/brinza_cristian</br>
 
 
 
