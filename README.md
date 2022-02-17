@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Cristian Brinza (@BrinzaCristian)</h1>
 <h3 align="center">Bachelor of Science in Software Engineering 
                     (English Taught Honors Program on Software Engineering)
