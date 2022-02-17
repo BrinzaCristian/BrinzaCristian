@@ -15,11 +15,12 @@
 - 🌱 I’m currently learning **new things**
 - ⚡ Fun fact **...**
 - 📫 How to reach me **:**</br>
+
 Mobile +373 (68) 74-54-34 </br>   
 Corporative Email cristian.brinza@isa.utm.md</br>
 Personal Email cristian.brinza.service.acc@gmail.com</br>
 
-2060 Moldova Republic of, Chisinau</br>
+    2060 Moldova Republic of, Chisinau</br>
 
 Git https://github.com/BrinzaCristian </br>
 Twitter https://twitter.com/cristian_brinza </br>
