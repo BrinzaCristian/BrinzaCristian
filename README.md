@@ -25,8 +25,8 @@ Personal Email cristian.brinza.service.acc@gmail.com
 
 2060 Moldova Republic of, Chisinau
 
-Git https://github.com/BrinzaCristian 
-Twitter https://twitter.com/cristian_brinza
+Git https://github.com/BrinzaCristian </br>
+Twitter https://twitter.com/cristian_brinza </br>
 Facebook https://www.facebook.com/cristian.brinza.fb
 Instagram https://www.instagram.com/brinza_cristian
 
