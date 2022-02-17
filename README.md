@@ -12,18 +12,14 @@
 <p align="left"> <a href="https://twitter.com/lllll" target="blank"><img src="https://img.shields.io/twitter/follow/lllll?logo=twitter&style=for-the-badge" alt="lllll" /></a> </p>
 
 - 👀 I’m interested in  **Software Engineering**
-
 - 🌱 I’m currently learning **new things**
-
 - ⚡ Fun fact **...**
-- 
 - 📫 How to reach me **:**
-
-Mobile +373 (68) 74-54-34      
-Corporative Email cristian.brinza@isa.utm.md
+Mobile +373 (68) 74-54-34   </br>   
+Corporative Email cristian.brinza@isa.utm.md</br>
 Personal Email cristian.brinza.service.acc@gmail.com
 
-2060 Moldova Republic of, Chisinau
+2060 Moldova Republic of, Chisinau</br>
 
 Git https://github.com/BrinzaCristian </br>
 Twitter https://twitter.com/cristian_brinza </br>
