@@ -42,7 +42,7 @@
 ##  EBS Integrator
 https://ebs-integrator.com/
 
-<img alt="meme" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fundo.io%2Fresources%2Fwhat-is-my-software-doing%2F&psig=AOvVaw3HRmdA_Ga_fuGKpZ7vMCQ5&ust=1650020857758000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKi3zuu0k_cCFQAAAAAdAAAAABBx" align="right"/>
+<img alt="meme" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
