@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Cristian Brinza (@BrinzaCristian)</h1>
-<h3 align="center">Bachelor of Science in Software Engineering 
-                    (English Taught Honors Program on Software Engineering)
-                    and Programing and Program Analysis Student</h3>
+<h3 align="center">Hi 👋, I'm Cristian Brinza</h3>
+<h4 align="center">(@BrinzaCristian)</h4>
+<h3 align="center">Bachelor of Science in Software Engineering (English Taught Honors Program on Software Engineering) at <a href="https://utm.md/en/">UTM</a>
+                    Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a>
+                    and Intern at   <a href="https://ebs-integrator.com/">EBS Integrator</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lllll&label=Profile%20views&color=0e75b6&style=flat" alt="lllll" /> </p>
 
@@ -11,14 +12,30 @@
 - ⚡ Fun fact **...**
 - 📫 How to reach me **:**</br>
 
-Mobile +373 (68) 74-54-34 </br>   
-Corporative Email cristian.brinza@isa.utm.md</br>
-Personal Email cristian.brinza.service.acc@gmail.com</br>
 
-   2060 Moldova Republic of, Chisinau</br>
+    Mobile +373 (68) 74-54-34
+
+    Corporative Email - cristian.brinza@isa.utm.md
+    Internship  Email - cristian.brinza@mail.ebs-integrator.com
+    Personal    Email - cristian.brinza.service.acc@gmail.com
+    
+               2060 Moldova Republic of, Chisinau
+
+        git profile https://github.com/BrinzaCristian/BrinzaCristian
+        git repository https://github.com/BrinzaCristian/practica2022
+
+##  EBS Integrator
+https://ebs-integrator.com/
 
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
