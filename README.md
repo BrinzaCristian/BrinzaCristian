@@ -38,7 +38,6 @@
 <a href="https://discordapp.com/users/cristi#5609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cristi#5609" height="30" width="40" /></a>
 </p>
 
-<img alt="meme" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right"/>
 
 ### 🌱 &nbsp;EBS Integrator
 https://ebs-integrator.com/
@@ -47,24 +46,7 @@ https://ebs-integrator.com/
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign&theme=dark)
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -87,6 +69,9 @@ https://ebs-integrator.com/
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/InDesign-05122A.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Photoshop-05122A.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Illustrator-05122A.svg?&style=for-the-badge&logo=adobe-adobe-illustrator&logoColor=white" height="25"/>
 </p>
 
 //<img src=""/>
@@ -97,8 +82,8 @@ https://ebs-integrator.com/
   
   <p align="center">
    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark" />
   <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
+    <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark" />
 </p>
   
 <a href="https://github.com/AVS1508">
