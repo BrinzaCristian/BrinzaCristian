@@ -77,7 +77,7 @@ https://ebs-integrator.com/
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+
   
   <p align="center">
     
