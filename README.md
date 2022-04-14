@@ -26,7 +26,8 @@
         git profile https://github.com/BrinzaCristian/BrinzaCristian
         git repository https://github.com/BrinzaCristian/practica2022
         
-        
+   <img alt="meme" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right"/>
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/brinzacristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/brinzacristian" height="30" width="40" /></a>
@@ -42,7 +43,7 @@
 ### 🌱 &nbsp;EBS Integrator
 https://ebs-integrator.com/
 
-<img alt="meme" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -70,7 +71,7 @@ https://ebs-integrator.com/
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </a>
 </p>
