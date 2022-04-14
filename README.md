@@ -81,10 +81,31 @@ https://ebs-integrator.com/
   
   <p align="center">
     
- <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api username=BrinzaCristian&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+ <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
  <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark" />
 </p>
+  
+  
+  <p align="center">
+  
+  <p align="center">
+ <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark" />
+ <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
+ <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark" />
+</p>
+  
+  
+<a href="https://github.com/AVS1508">
+
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</a>
+</p>
+
+  
+  
   
   
 ### ⚙️ &nbsp;GitHub Analytics Languages and Tools I use
