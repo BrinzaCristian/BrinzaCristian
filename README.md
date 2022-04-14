@@ -86,9 +86,9 @@ https://ebs-integrator.com/
 
   
   <p align="center">
- <img width="32%" src="https://github-readme-stats.vercel.app/api?username=brinzacristian&show_icons=true&theme=dark&locale=en" alt="brinzacristian" />
- <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=brinzacristian&theme=dark" alt="brinzacristian" />
- <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brinzacristian&show_icons=true&theme=dark&locale=en&layout=compact" alt="brinzacristian" />
+ <img width="32%" src="https://github-readme-stats.vercel.app/api?username=brinzacristian&show_icons=true&theme=dark&locale=en&hide_border=true" alt="brinzacristian" />
+ <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=brinzacristian&theme=dark&hide_border=true" alt="brinzacristian" />
+ <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brinzacristian&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="brinzacristian" />
 </p>
   
  
@@ -101,3 +101,8 @@ https://ebs-integrator.com/
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+</br></br></br>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brinzacristian" alt="brinzacristian" /></a> </p>
