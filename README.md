@@ -88,11 +88,9 @@ https://ebs-integrator.com/
   
   
   <p align="center">
-  
-  <p align="center">
  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark" />
  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
- <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark" />
+ <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&theme=dark" />
 </p>
   
   
