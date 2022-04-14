@@ -66,25 +66,40 @@ https://ebs-integrator.com/
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign&theme=dark)
 
+<p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/eclipse-008080.svg?&style=for-the-badge&logo=latex&logoColor=white%22%20height=%25"
-<img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=latex&logoColor=white%22%20height=%25"/>
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
-
 <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
+</p>
 
-
-
+<img src=""/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
+  
+  <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=tokyonight" />
+</p>
+  
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
