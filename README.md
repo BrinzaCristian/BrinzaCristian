@@ -102,3 +102,10 @@ https://ebs-integrator.com/
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brinzacristian&show_icons=true&theme=dark&locale=en&layout=compact" alt="brinzacristian" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brinzacristian&show_icons=true&theme=dark&locale=en" alt="brinzacristian" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brinzacristian&theme=dark" alt="brinzacristian" /></p>
