@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lllll&label=Profile%20views&color=0e75b6&style=flat" alt="lllll" /> </p>
 
 
-- 👀 &nbsp; I’m interested in  **Software Engineering** \
-- 🌱 &nbsp; I’m currently learning **new things** \
-- ⚡ &nbsp; Fun fact **...** \
+👀 &nbsp; I’m interested in  **Software Engineering** \
+🌱 &nbsp; I’m currently learning **new things** \
+⚡ &nbsp; Fun fact **...** \
 📫 &nbsp; You can shoot me an email! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Résumé](https://) for more details about me. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I'm open to feedback and suggestions!
