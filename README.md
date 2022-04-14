@@ -82,22 +82,23 @@ https://ebs-integrator.com/
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/eclipse-008080.svg?&style=for-the-badge&logo=latex&logoColor=white%22%20height=%25"
+<img src="https://img.shields.io/badge/eclipse-008080.svg?&style=for-the-badge&logo=latex&logoColor=white%22%20height=%25">
 <img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=latex&logoColor=white%22%20height=%25"/>
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
 </p>
 
-<img src=""/>
+//<img src=""/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   
   <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=tokyonight" />
+   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
 </p>
   
 <a href="https://github.com/AVS1508">
