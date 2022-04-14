@@ -4,7 +4,7 @@
                     Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a>
                     and Intern at   <a href="https://ebs-integrator.com/">EBS Integrator</a></h3>
 <p align=center>                           
-  <img align=center src="https://komarev.com/ghpvc/?username=BrinzaCristian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile" />
+  <img align=center src="https://komarev.com/ghpvc/?username=BrinzaCristian&label=Profile%20views&color=b40e0e&style=flat" alt="Profile" />
 </p>
 
 
@@ -104,5 +104,3 @@ https://ebs-integrator.com/
 
 </br></br></br>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brinzacristian" alt="brinzacristian" /></a> </p>
