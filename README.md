@@ -11,7 +11,7 @@
 🌱 &nbsp; I’m currently learning **new things** \
 ⚡ &nbsp; Fun fact **...** \
 📫 &nbsp; You can shoot me an email! I'll try to respond as soon as I can.\
-📄 &nbsp; Please have a look at my [Résumé](https://) for more details about me. 
+📄 &nbsp; Please have a look at my [Résumé](https://) for more details about me. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I'm open to feedback and suggestions!
 
 
@@ -26,7 +26,6 @@
         git profile https://github.com/BrinzaCristian/BrinzaCristian
         git repository https://github.com/BrinzaCristian/practica2022
         
-   <img alt="meme" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right"/>
    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +38,7 @@
 <a href="https://discordapp.com/users/cristi#5609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cristi#5609" height="30" width="40" /></a>
 </p>
 
+<img alt="meme" src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" align="right"/>
 
 ### 🌱 &nbsp;EBS Integrator
 https://ebs-integrator.com/
