@@ -3,8 +3,11 @@
 <h3 align="center">Bachelor of Science in Software Engineering (English Taught Honors Program on Software Engineering) at <a href="https://utm.md/en/">UTM</a>
                     Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a>
                     and Intern at   <a href="https://ebs-integrator.com/">EBS Integrator</a></h3>
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=BrinzaCristian.BrinzaCristian" alt="Visitors"> 
+  <img align=center src="https://komarev.com/ghpvc/?username=BrinzaCristian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lllll&label=Profile%20views&color=0e75b6&style=flat" alt="lllll" /> </p>
 
 
 👀 &nbsp; I’m interested in  **Software Engineering** \
