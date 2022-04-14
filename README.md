@@ -74,19 +74,21 @@ https://ebs-integrator.com/
 <img src="https://img.shields.io/badge/Illustrator-05122A.svg?&style=for-the-badge&logo=adobe-adobe-illustrator&logoColor=white" height="25"/>
 </p>
 
-//<img src=""/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   
   <p align="center">
-   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
-    <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark" />
+ <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark" />
+ <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
+ <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark" />
 </p>
   
+  
 <a href="https://github.com/AVS1508">
+
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrinzaCristian&theme=dark" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrinzaCristian&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrinzaCristian&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </a>
