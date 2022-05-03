@@ -1,8 +1,7 @@
 <h1 align='center'> Hello there, I'm Cristi :wave:</h1>
 <h4 align="center">(@BrinzaCristian)</h4>
 <h3 align="center">Bachelor of Science in Software Engineering (English Taught Honors Program on Software Engineering) at <a href="https://utm.md/en/">UTM</a>
-                    Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a>
-                    and Intern at   <a href="https://ebs-integrator.com/">EBS Integrator</a></h3>
+                    Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a></h3>
 <p align=center>                           
   <img align=center src="https://komarev.com/ghpvc/?username=BrinzaCristian&label=Profile%20views&color=b40e0e&style=flat" alt="Profile" />
 </p>
@@ -39,11 +38,6 @@
 <a href="https://www.instagram.com/brinza_cristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brinza_cristian" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/cristi#5609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cristi#5609" height="30" width="40" /></a>
 </p>
-
-
-### 🌱 &nbsp;EBS Integrator
-https://ebs-integrator.com/
-
 
 
 ### 🛠 &nbsp;Tech Stack
