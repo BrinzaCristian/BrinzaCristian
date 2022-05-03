@@ -19,7 +19,6 @@
     Mobile +373 (68) 74-54-34
 
     Corporative Email - cristian.brinza@isa.utm.md
-    Internship  Email - cristian.brinza@mail.ebs-integrator.com
     Personal    Email - cristian.brinza.service.acc@gmail.com
     
                2060 Moldova Republic of, Chisinau
