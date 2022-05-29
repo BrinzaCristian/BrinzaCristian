@@ -35,7 +35,7 @@
 <a href="https://stackoverflow.com/users/17364500/cristian-brinza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17364500/cristian-brinza" height="30" width="40" /></a>
 <a href="https://www.facebook.com/cristian.brinza.fb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cristian.brinza.fb" height="30" width="40" /></a>
 <a href="https://www.instagram.com/brinza_cristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brinza_cristian" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/cristi#5609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cristi#5609" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/cristi#5609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cristi#6969" height="30" width="40" /></a>
 </p>
 
 
